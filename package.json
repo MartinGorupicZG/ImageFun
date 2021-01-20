@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gsap": "^3.1.1",
+    "gsap": "^3.6.0",
     "hover-effect": "^1.1.0",
     "three": "^0.113.2"
   }
