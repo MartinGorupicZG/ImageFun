@@ -12,6 +12,6 @@
   "dependencies": {
     "gsap": "^3.1.1",
     "hover-effect": "^1.1.0",
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   }
 }
